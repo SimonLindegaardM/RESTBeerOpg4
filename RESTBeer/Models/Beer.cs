@@ -20,5 +20,10 @@ namespace RESTBeer.Models
         public double Price { get; set; }
         public double Abv { get; set; }
 
+        public Beer()
+        {
+            
+        }
+
     }
 }
